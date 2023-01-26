@@ -1,1 +1,1 @@
-# Giriled değere uygun elmas çizebilen program
+# Girilen değere uygun elmas çizebilen program
